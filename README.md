@@ -9,4 +9,4 @@
 
 ## Enlaces
 - [Video funcionamiento.](https://upbeduco-my.sharepoint.com/:v:/g/personal/sofia_arangop_upb_edu_co/EYqseLiWPxdLouHAqSO3abEBEgje5njEV5k3Gg3JEVyYAw?e=dCJPJr)
-- [Wireframes.](https://www.canva.com/design/DAFkQC7y-_o/x1HbjGSXjV8iMcFL2y5_Tg/edit?utm_content=DAFkQC7y _o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Wireframes.](https://www.canva.com/design/DAFkQC7y-_o/x1HbjGSXjV8iMcFL2y5_Tg/edit?utm_content=DAFkQC7y-_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
