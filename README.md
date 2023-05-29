@@ -7,3 +7,6 @@
 - Juego para dos jugadores.
 - Control de los paddles mediante dos botones para cada jugador.
 
+## Enlaces
+- [Video funcionamiento](https://upbeduco-my.sharepoint.com/:v:/g/personal/sofia_arangop_upb_edu_co/EYqseLiWPxdLouHAqSO3abEBEgje5njEV5k3Gg3JEVyYAw?e=dCJPJr)
+-
